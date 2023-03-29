@@ -1,2 +1,2 @@
 # HTMLMaratonGoIT
-first HTML website 
+first HTML website prepared in Visual Studio Code
